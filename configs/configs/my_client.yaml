@@ -1,8 +1,8 @@
+# configs/my_client.yaml
 metadata:
-  client_name: "Client Name"
-  language: "bilingual"
+  client_name: "My Client"
+  language: "english"
 
 sections:
   - type: "hero"
-    headline_en: "Your Headline"
-    headline_ar: "عنوانك بالعربية"
+    headline_en: "Welcome to Our Service"
