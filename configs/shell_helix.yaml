@@ -1,0 +1,39 @@
+metadata:
+  client_name: "Shell Helix"
+  title: "Shell Helix Market Analysis | Saudi Arabia"
+  language: "arabic" 
+  direction: "rtl"
+
+styles:
+  primary_color: "#FF0000"
+  secondary_color: "#FFFF00"
+
+sections:
+  - type: "market_analysis"
+    title: "دراسة السوق الشاملة"
+    subtitle: "تحليل متكامل للسوق السعودي واستراتيجيات المنافسين"
+    data_points:
+      - value: "35.1M"
+        label: "إجمالي الهويات الرقمية"
+        color: "red"
+      - value: "16.3M" 
+        label: "مستخدمو إنستغرام"
+        color: "pink"
+      - value: "22.6M"
+        label: "مستخدمو سناب شات"
+        color: "yellow"
+
+  - type: "competitor_analysis"
+    competitors:
+      - name: "بتروميـن"
+        strengths:
+          - "650+ مركز خدمة يمكّن من الوصول الوطني"
+          - "نظام ولاء 'كن مليونيراً' مع جائزة مليون ريال"
+        weaknesses:
+          - "إبداعات تركز على العروض وتفتقر للقصص العاطفية"
+
+  - type: "regulatory_compliance"
+    title: "الإطار التنظيمي والامتثال"
+    compliance_notes:
+      - "الاحتفاظ بالوثائق للتوريدات الاسمية"
+      - "وضوح الأدوار عند استخدام المنصات الإلكترونية"
