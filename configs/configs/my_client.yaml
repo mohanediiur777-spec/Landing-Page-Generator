@@ -1,0 +1,8 @@
+metadata:
+  client_name: "Client Name"
+  language: "bilingual"
+
+sections:
+  - type: "hero"
+    headline_en: "Your Headline"
+    headline_ar: "عنوانك بالعربية"
