@@ -8,4 +8,4 @@
 ```bash
 git clone https://github.com/yourusername/landing-page-factory
 cd landing-page-factory
-pip install -r requirements.txt
+pip install pyyaml
