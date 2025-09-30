@@ -1,9 +1,11 @@
 # Landing Page Factory 🚀
 
-**Permanent Solution to HTML Editing Nightmares**
+**Generate perfect landing pages from simple config files - No HTML editing!**
 
-## Quick Start:
+## ⚡ 5-Minute Setup:
 
-1. **Install requirements:**
-   ```bash
-   pip install pyyaml
+1. **Clone & Install:**
+```bash
+git clone https://github.com/yourusername/landing-page-factory
+cd landing-page-factory
+pip install -r requirements.txt
